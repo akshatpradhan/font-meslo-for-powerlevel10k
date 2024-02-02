@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install kalip2/font-meslo-for-powerlevel10k/<formula>`
+`brew install akshatpradhan/font-meslo-for-powerlevel10k/font-meslo-for-powerlevel10k`
 
-Or `brew tap kalip2/font-meslo-for-powerlevel10k` and then `brew install <formula>`.
+Or `brew tap akshatpradhan/font-meslo-for-powerlevel10k` and then `brew install font-meslo-for-powerlevel10k`.
 
 ## Documentation
 
