@@ -1,4 +1,4 @@
-# Kalip2 Font-meslo-for-powerlevel10k
+# Font-meslo-for-powerlevel10k
 
 ## How do I install these formulae?
 
